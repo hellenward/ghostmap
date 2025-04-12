@@ -1,0 +1,12 @@
+.ghost-map-container {
+    height: 100svh;
+    width: 100svw;
+}
+
+.ghost-button {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: #f0f0f0 !important;
+    border: 1px solid #666 !important;
+    font-family: 'Creepster', cursive !important;
+    /* if you're going full spooky */
+}
